@@ -1,0 +1,3 @@
+[submodule "onchain-dao-frontend"]
+	path = onchain-dao-frontend
+	url = https://github.com/clint911/onchain-dao-frontend.git
